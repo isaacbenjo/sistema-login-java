@@ -1,0 +1,7 @@
+AuthService.class
+PasswordService.class
+User.class
+Database.class
+App.class
+UserRepository.class
+UserRepository$UserWithCredentials.class
